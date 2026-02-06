@@ -1,0 +1,9 @@
+ddcui
+gpu-screen-recorder
+python312
+quickshell-git
+ttf-league-gothic
+ttf-phosphor-icons
+wttrbar
+yay-bin
+yay-bin-debug

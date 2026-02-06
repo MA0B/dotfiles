@@ -1,0 +1,10 @@
+[StreamInputs]
+inputDevice=alsa_input.usb-Logitech_G733_Gaming_Headset-00.mono-fallback
+
+[StreamOutputs]
+outputDevice=alsa_output.usb-Logitech_G733_Gaming_Headset-00.analog-stereo
+
+[Window]
+height=530
+visiblePage=pwPage
+width=950

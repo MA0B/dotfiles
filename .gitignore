@@ -1,0 +1,21 @@
+*~
+*.swp
+*.tmp
+.DS_Store
+
+**/Cache/
+**/cache/
+**/GPUCache/
+**/Code Cache/
+**/Crashpad/
+**/Logs/
+**/logs/
+**/*.log
+
+.config/opencode/
+.config/cfg_backups/
+.config/spotify/
+.config/vesktop/
+.config/mozilla/
+.config/pulse/
+.config/session/

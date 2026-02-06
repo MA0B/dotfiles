@@ -1,0 +1,15 @@
+com.github.rafostar.Clapper	stable
+com.github.tchx84.Flatseal	stable
+com.github.unrud.VideoDownloader	stable
+com.obsproject.Studio	stable
+io.github.flattool.Warehouse	stable
+io.github.spacingbat3.webcord	stable
+io.gitlab.adhami3310.Impression	stable
+io.gitlab.theevilskeleton.Upscaler	stable
+io.missioncenter.MissionCenter	stable
+org.blender.Blender	stable
+org.gimp.GIMP	stable
+org.gnome.Boxes	stable
+org.gnome.eog	stable
+org.inkscape.Inkscape	stable
+org.kde.krita	stable
